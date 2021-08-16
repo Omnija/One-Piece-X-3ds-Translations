@@ -1,7 +1,7 @@
 # One Piece - Super Grand Battle! X 3DS
 **DO NOT** Redistribute **WITHOUT** our **Credit** or **Permission**
 
-![Intro](/docs/mainmenu.png)
+![Intro](/docs/title.png)
 
 ### Description:
 We are not Japanese or translators, but we decided to pick this up as a side 
@@ -30,3 +30,4 @@ Omnija & Sotaeko
 
 ## Screenshots
 
+![Intro](/docs/mainmenu.png)
