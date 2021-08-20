@@ -6,7 +6,6 @@
 ### Description:
 We are not Japanese or translators, but we decided to pick this up as a side 
 project for fun.
-This will ONLY be a UI translation as of right now, this may or may not change.
 
 This is our third translation attempt and we will do the best we can.
 If you have any questions feel free to contact us.
