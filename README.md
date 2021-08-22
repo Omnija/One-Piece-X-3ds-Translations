@@ -29,4 +29,5 @@ Omnija & Sotaeko
 
 ## Screenshots
 
-![Intro](/docs/mainmenu.png)
+![Intro](/docs/mainmenu.png) ![Intro](/docs/data.png)
+![Intro](/docs/arena.png) ![Intro](/docs/characters.png)
