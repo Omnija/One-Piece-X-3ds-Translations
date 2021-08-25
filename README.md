@@ -16,7 +16,7 @@ If you have any questions feel free to contact us.
 Option 1 -> Using LumaFS
 1. Place the patch's files into the /luma/titles/<titleID>folder on your SD card
 2. Game titleIDs are 16 characters long and start with 00040000
-- 0004000000144400 -
+- 0004000000144400
 
 Option 2 -> Using Cia
 1. Decrypt then Extract CIA file
