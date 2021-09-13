@@ -32,4 +32,5 @@ Omnija & Sotaeko
 ![Intro](/docs/mainmenu.png) ![Intro](/docs/data.png)
 ![Intro](/docs/arena.png) ![Intro](/docs/characters.png)
 ![Intro](/docs/options.png) ![Intro](/docs/islands.png)
-![Intro](/docs/pause.png)
+![Intro](/docs/pause.png) ![Intro](/docs/shop.png)
+![Intro](/docs/assemble.png) ![Intro](/docs/newslist.png)
