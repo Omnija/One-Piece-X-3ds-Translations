@@ -1,5 +1,5 @@
 # One Piece - Super Grand Battle! X 3DS
-**DO NOT** Redistribute **WITHOUT** our **Credit** or **Permission**
+**DO NOT** Redistribute **WITHOUT** our **Credit** and **Permission**
 
 ![Intro](/docs/title.png)
 
